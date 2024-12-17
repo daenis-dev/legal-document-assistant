@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+env/
+data-v1/non-bankruptcy_images
+data-v1/bankruptcy_images/
+data-v1/documents/bankruptcy
+data-v1/documents/non-bankruptcy
+*.pth
+
